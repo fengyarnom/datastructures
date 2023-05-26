@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dc5b2fd-f471-48da-8a12-c334609ccb6f" name="Changes" comment="" />
+    <list default="true" id="7dc5b2fd-f471-48da-8a12-c334609ccb6f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/yarnom/Achive/datastructures/dynamicarray",
+    "last_opened_file_path": "/home/yarnom/Achive/datastructures/single_linked_list",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685019097597</updated>
       <workItem from="1685019098601" duration="851000" />
-      <workItem from="1685072495715" duration="6826000" />
+      <workItem from="1685072495715" duration="7812000" />
     </task>
     <servers />
   </component>
