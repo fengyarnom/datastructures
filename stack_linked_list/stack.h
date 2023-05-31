@@ -20,4 +20,12 @@ typedef struct {
 }Stack,*StackPtr;
 
 StackPtr init_stack();
+
+int size(StackPtr stack);
+int is_empty(StackPtr StackPtr);
+
+void push(StackPtr stack,int data);
+int pop(StackPtr stack);
+int print_stack(StackPtr stack);
+NodePtr peek(StackPtr stack);
 #endif //DATASTRUCTURES_STACK_H

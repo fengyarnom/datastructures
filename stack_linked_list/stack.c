@@ -54,7 +54,7 @@ push(StackPtr stack,int data){
 int
 pop(StackPtr stack){
     if(is_empty(stack)){
-        perror("该链表为空");
+        perror("该栈为空");
         return -1;
     }
 
