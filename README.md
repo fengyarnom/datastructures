@@ -13,6 +13,10 @@ Finally, if you have any questions, please feel free to let me know. I will do m
 - [x] Dynamic Array
 - [x] Single Linked List
 - [x] Double Linked List
+- [x] Stack (implementation of linked lists)
+    - [] Balancing Parentheses
+    - [] Arithmetic Expression Evaluation
+- [] Queue
 
 
 ### License
